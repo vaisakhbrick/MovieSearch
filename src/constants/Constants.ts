@@ -35,5 +35,6 @@ export enum AppDesignConstants {
     xxl = 32,
     xxxl = 36,
 
-    headerFont = 20
+    headerFont = 20,
+    searchFont = 16
 }
